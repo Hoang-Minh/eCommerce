@@ -49,13 +49,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Data\DataContext.cs" />
-    <Compile Include="Migrations\201602071149338_Initial.cs" />
-    <Compile Include="Migrations\201602071149338_Initial.Designer.cs">
-      <DependentUpon>201602071149338_Initial.cs</DependentUpon>
+    <Compile Include="Migrations\201602090731097_Initial.cs" />
+    <Compile Include="Migrations\201602090731097_Initial.Designer.cs">
+      <DependentUpon>201602090731097_Initial.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201602071152309_AddAnotherCostPrice.cs" />
-    <Compile Include="Migrations\201602071152309_AddAnotherCostPrice.Designer.cs">
-      <DependentUpon>201602071152309_AddAnotherCostPrice.cs</DependentUpon>
+    <Compile Include="Migrations\201602090734407_AddCostPrice.cs" />
+    <Compile Include="Migrations\201602090734407_AddCostPrice.Designer.cs">
+      <DependentUpon>201602090734407_AddCostPrice.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -79,11 +79,11 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201602071149338_Initial.resx">
-      <DependentUpon>201602071149338_Initial.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201602090731097_Initial.resx">
+      <DependentUpon>201602090731097_Initial.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201602071152309_AddAnotherCostPrice.resx">
-      <DependentUpon>201602071152309_AddAnotherCostPrice.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201602090734407_AddCostPrice.resx">
+      <DependentUpon>201602090734407_AddCostPrice.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

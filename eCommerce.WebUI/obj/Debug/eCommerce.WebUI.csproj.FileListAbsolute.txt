@@ -59,3 +59,15 @@ D:\Programming Project\C#\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.
 D:\Programming Project\C#\eCommerce\eCommerce.WebUI\obj\Debug\eCommerce.WebUI.csprojResolveAssemblyReference.cache
 D:\Programming Project\C#\eCommerce\eCommerce.WebUI\obj\Debug\eCommerce.WebUI.dll
 D:\Programming Project\C#\eCommerce\eCommerce.WebUI\obj\Debug\eCommerce.WebUI.pdb
+D:\Programming Project\C#\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Programming Project\C#\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Programming Project\C#\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.dll
+D:\Programming Project\C#\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.Mvc.dll
+D:\Programming Project\C#\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Programming Project\C#\eCommerce\eCommerce.WebUI\bin\WebActivatorEx.dll
+D:\Programming Project\C#\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Programming Project\C#\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.ServiceLocation.xml
+D:\Programming Project\C#\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.xml
+D:\Programming Project\C#\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Programming Project\C#\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.Mvc.xml
+D:\Programming Project\C#\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml

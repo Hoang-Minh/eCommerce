@@ -5,10 +5,11 @@ using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using eCommerce.Contracts.Repositories;
 
 namespace eCommerce.DAL.Repositories
 {
-    public abstract class RepositoryBase<TEntity> where TEntity : class
+    public abstract class RepositoryBase<TEntity> : IRepositoryBase<TEntity> where TEntity : class
     {
         internal DataContext context;
         internal DbSet<TEntity> dbSet;
