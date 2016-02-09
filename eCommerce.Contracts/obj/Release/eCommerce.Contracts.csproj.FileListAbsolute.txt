@@ -1,0 +1,5 @@
+D:\Programming Project\C#\eCommerce\eCommerce.Contracts\bin\Release\eCommerce.Contracts.dll.config
+D:\Programming Project\C#\eCommerce\eCommerce.Contracts\bin\Release\eCommerce.Contracts.dll
+D:\Programming Project\C#\eCommerce\eCommerce.Contracts\bin\Release\eCommerce.Contracts.pdb
+D:\Programming Project\C#\eCommerce\eCommerce.Contracts\obj\Release\eCommerce.Contracts.dll
+D:\Programming Project\C#\eCommerce\eCommerce.Contracts\obj\Release\eCommerce.Contracts.pdb

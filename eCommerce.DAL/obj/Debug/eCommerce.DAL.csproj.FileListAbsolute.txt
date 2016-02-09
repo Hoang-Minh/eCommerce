@@ -1,0 +1,17 @@
+D:\Programming Project\C#\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.DAL.dll.config
+D:\Programming Project\C#\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.DAL.dll
+D:\Programming Project\C#\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.DAL.pdb
+D:\Programming Project\C#\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.Contracts.dll
+D:\Programming Project\C#\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.Model.dll
+D:\Programming Project\C#\eCommerce\eCommerce.DAL\bin\Debug\EntityFramework.dll
+D:\Programming Project\C#\eCommerce\eCommerce.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming Project\C#\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.Contracts.pdb
+D:\Programming Project\C#\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.Model.pdb
+D:\Programming Project\C#\eCommerce\eCommerce.DAL\bin\Debug\EntityFramework.xml
+D:\Programming Project\C#\eCommerce\eCommerce.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming Project\C#\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.csprojResolveAssemblyReference.cache
+D:\Programming Project\C#\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.Migrations.Initial.resources
+D:\Programming Project\C#\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.csproj.GenerateResource.Cache
+D:\Programming Project\C#\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.dll
+D:\Programming Project\C#\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.pdb
+D:\Programming Project\C#\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.Migrations.AddAnotherCostPrice.resources

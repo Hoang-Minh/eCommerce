@@ -1,0 +1,4 @@
+D:\Programming Project\C#\eCommerce\eCommerce.Model\bin\Release\eCommerce.Model.dll
+D:\Programming Project\C#\eCommerce\eCommerce.Model\bin\Release\eCommerce.Model.pdb
+D:\Programming Project\C#\eCommerce\eCommerce.Model\obj\Release\eCommerce.Model.dll
+D:\Programming Project\C#\eCommerce\eCommerce.Model\obj\Release\eCommerce.Model.pdb
